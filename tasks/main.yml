@@ -4,4 +4,4 @@
 - include: grafana_release.yml
   when: grafana_version is defined
 - include: grafana_config.yml
-- include: nginx.yml
+#- include: nginx.yml

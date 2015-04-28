@@ -1,7 +1,7 @@
 ---
 grafana_owner: www-data
-  
-grafana_git_url: https://github.com/torkelo/grafana.git
+
+grafana_git_url: https://github.com/grafana/grafana.git
 grafana_git_branch: master
 grafana_root_path: /var/www/grafana
 grafana_default_route: /dashboard/file/default.json
